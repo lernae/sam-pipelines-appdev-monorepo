@@ -1,7 +1,7 @@
 # CI/CD for mono repo with SAM pipelines [WIP]
 
 
-## Intro 2
+## Intro
 
 This repo aims to provide a first implementation of  CI/CD pipelines for mono repo based on 
 * Github repo
